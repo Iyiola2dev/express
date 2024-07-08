@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "name": "Apple",
+      "color": "Red",
+      "taste": "Sweet",
+      "price_per_kg": 3.5,
+      "origin": "USA",
+      "description": "A crisp, juicy fruit that is often red in color. Apples are great for snacking and baking.",
+      "image": "https://example.com/images/apple.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "color": "Yellow",
+      "taste": "Sweet",
+      "price_per_kg": 1.2,
+      "origin": "Ecuador",
+      "description": "A soft, sweet fruit that is yellow when ripe. Bananas are a convenient and healthy snack.",
+      "image": "https://example.com/images/banana.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "color": "Orange",
+      "taste": "Citrus",
+      "price_per_kg": 2.8,
+      "origin": "Spain",
+      "description": "A juicy citrus fruit that is known for its vibrant color and refreshing taste.",
+      "image": "https://example.com/images/orange.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Strawberry",
+      "color": "Red",
+      "taste": "Sweet",
+      "price_per_kg": 6.0,
+      "origin": "Mexico",
+      "description": "A small, red fruit with a sweet taste and a distinctive aroma. Strawberries are perfect for desserts.",
+      "image": "https://example.com/images/strawberry.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Lemon",
+      "color": "Yellow",
+      "taste": "Sour",
+      "price_per_kg": 2.0,
+      "origin": "Italy",
+      "description": "A tangy citrus fruit that is yellow in color. Lemons are widely used for their juice and zest.",
+      "image": "https://example.com/images/lemon.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Grapes",
+      "color": "Purple",
+      "taste": "Sweet",
+      "price_per_kg": 3.0,
+      "origin": "France",
+      "description": "Small, juicy fruits that come in clusters. Grapes can be eaten fresh or used to make wine.",
+      "image": "https://example.com/images/grapes.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Watermelon",
+      "color": "Green",
+      "taste": "Sweet",
+      "price_per_kg": 0.7,
+      "origin": "Brazil",
+      "description": "A large, refreshing fruit with a thick green rind and sweet, juicy red flesh.",
+      "image": "https://example.com/images/watermelon.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Pineapple",
+      "color": "Brown",
+      "taste": "Sweet",
+      "price_per_kg": 1.5,
+      "origin": "Philippines",
+      "description": "A tropical fruit with a tough, spiky exterior and sweet, tangy yellow flesh inside.",
+      "image": "https://example.com/images/pineapple.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Mango",
+      "color": "Orange",
+      "taste": "Sweet",
+      "price_per_kg": 2.5,
+      "origin": "India",
+      "description": "A juicy tropical fruit with a sweet and fragrant orange flesh. Mangoes are loved for their rich flavor.",
+      "image": "https://example.com/images/mango.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Blueberry",
+      "color": "Blue",
+      "taste": "Sweet",
+      "price_per_kg": 8.0,
+      "origin": "Canada",
+      "description": "Small, blue-purple berries that are sweet and slightly tart. Blueberries are packed with antioxidants.",
+      "image": "https://example.com/images/blueberry.jpg"
+    }
+  ]
